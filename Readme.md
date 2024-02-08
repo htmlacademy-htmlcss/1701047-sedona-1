@@ -2,7 +2,6 @@
 
 - Студент: [Iwan Brusenzew](https://up.htmlacademy.ru/htmlcss-individual/1/user/1701047).
 
----
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
