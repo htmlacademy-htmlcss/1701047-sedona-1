@@ -1,7 +1,6 @@
 # Личный проект «Седона»
 
 - Студент: [Iwan Brusenzew](https://up.htmlacademy.ru/htmlcss-individual/1/user/1701047).
-- Наставник: `Малик Киров`.
 
 ---
 
